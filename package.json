@@ -1,0 +1,33 @@
+{
+  "name": "wow.ets.modules",
+  "version": "1.0.0",
+  "description": "WoW ETS Module list for use with wow-eluna-ts-module and Azerothcore eluna ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/araxiaonline/wow.ets.modules.git"
+  },
+  "keywords": [
+    "wow-eluna-ts-module",
+    "azerothcore",
+    "eluna",
+    "typescript",
+    "world",
+    "of",
+    "warcraft",
+    "wow",
+    "addons"
+  ],
+  "author": "ben-of-codecraft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/araxiaonline/wow.ets.modules/issues"
+  },
+  "homepage": "https://github.com/araxiaonline/wow.ets.modules#readme",
+  "dependencies": {
+    "wow-eluna-ts-module": "^1.6.6"
+  }
+}
