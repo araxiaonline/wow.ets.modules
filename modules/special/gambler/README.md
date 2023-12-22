@@ -7,7 +7,7 @@ This is a module for allowing players to gamble their gold in game.  Currently i
 
 Slot Machine Demo
 
-[![Watch the video](https://img.youtube.com/vi/qLeDNlMIeaQ/0.jpg)](https://youtu.be/nTQUwghvy5Q)
+https://github.com/araxiaonline/wow.ets.modules/assets/110695027/c8d579dd-0c04-4690-ba37-a5db03d658a9
 
 ### Configuration options
 
