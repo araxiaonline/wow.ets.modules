@@ -8,7 +8,7 @@
 - [set-xp-rate](commands/set-xp-rate/README.md) - Add command to allow players to set their own xprate on demand up to configured limit. 
 
 ## GameObjects
-- [soulswapper](gameobjects/soulswapper/README.md)
+- [soulswapper](gameobjects/soulswapper/README.md) - Allows users to send soulbound items to alts for a small fee
 
 ## Special
 - [gambler](special/gambler/README.md) - Adds mini games to the game to allow players to gamble. 
