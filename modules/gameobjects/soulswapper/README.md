@@ -31,4 +31,6 @@ This uses a GossipMenu and the in-game mail system to transfer items between cha
 
  
 ### Demo  
-[![Watch the video](https://img.youtube.com/vi/rJ92hM93pYA/0.jpg)](https://youtu.be/nTQUwghvy5Q)
+
+https://github.com/araxiaonline/wow.ets.modules/assets/110695027/881a3086-844d-4ca1-a3b3-709ab736d655
+
