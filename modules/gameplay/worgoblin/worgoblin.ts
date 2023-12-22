@@ -1,10 +1,12 @@
-import { ToCopper } from "../classes/money";
+import { ToCopper } from "../../shared/money";
 
 /**
  * This will change the starting zone for Worgren and Goblins 
  * and provides additional racials for Worgren because they are missing some. 
  * 
- * REQUIRES WORGOBLIN MOD INSTALLATION AND PATCHES TO BE APPLIED
+ * REQUIRES MOD_WORGOBLIN INSTALLATION
+ * REQUIRES PATCH FILES 
+ * 
  * SEE README FOR INSTALLATION INSTRUCTIONS
  */
 

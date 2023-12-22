@@ -6,6 +6,7 @@
  * Type: Command
  * Adds a command that allows players to set their own XP rate for their character up to 5x normal xp rate. 
  * 
+ * REQUIRES CLASS FILE stats.ts to be installed. 
  */
 
 /**
@@ -20,7 +21,7 @@ const setXPcmd = "#xprate set";
 
 const XP_RATE_SETTING = "xp_rate";
 
-import { PlayerStats } from "../classes/stats";
+import { PlayerStats } from "../../shared/stats";
 
 let xpRateCache = new Map<number, number>();
 

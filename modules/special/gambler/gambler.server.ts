@@ -5,7 +5,7 @@ let aio: AIO = {};
  * Gambler - Slot Machine
  * This is the server side code used to add gambling games to the server. 
  * 
- * REQUIRES DB acore_world.item_template to be updated for custom tokens
+ * REQUIRES SQL
  */
 
 /**
