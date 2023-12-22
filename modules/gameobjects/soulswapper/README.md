@@ -31,6 +31,4 @@ This uses a GossipMenu and the in-game mail system to transfer items between cha
 
  
 ### Demo  
-
-[<img src="https://img.youtube.com/vi/rJ92hM93pYA/0.jpg" alt="alt_text" width="450">
-(https://www.youtube.com/watch?v=rJ92hM93pYA)
+[![Watch the video](https://img.youtube.com/vi/rJ92hM93pYA/0.jpg)](https://youtu.be/nTQUwghvy5Q)

@@ -13,4 +13,6 @@ Chat commands
 #xprate set [number] - sets the players xp growth rate 
 
 ```
-[<img src="https://img.youtube.com/vi/XSdfsm3qRIk/0.jpg" alt="alt_text" width="450">](https://www.youtube.com/watch?v=XSdfsm3qRIk)
+
+### Demo
+[![Watch the video](https://img.youtube.com/vi/XSdfsm3qRIk/0.jpg)](https://youtu.be/nTQUwghvy5Q)

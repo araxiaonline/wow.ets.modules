@@ -7,7 +7,7 @@ This is a module for allowing players to gamble their gold in game.  Currently i
 
 Slot Machine Demo
 
-[<img src="https://img.youtube.com/vi/qLeDNlMIeaQ/0.jpg" alt="alt_text" width="450">](https://www.youtube.com/watch?v=qLeDNlMIeaQ)
+[![Watch the video](https://img.youtube.com/vi/qLeDNlMIeaQ/0.jpg)](https://youtu.be/nTQUwghvy5Q)
 
 ### Configuration options
 
