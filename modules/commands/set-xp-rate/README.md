@@ -15,4 +15,4 @@ Chat commands
 ```
 
 ### Demo
-[![Watch the video](https://img.youtube.com/vi/XSdfsm3qRIk/0.jpg)](https://youtu.be/nTQUwghvy5Q)
+[![Watch the video](https://img.youtube.com/vi/XSdfsm3qRIk/0.jpg)](https://youtu.be/XSdfsm3qRIk)
