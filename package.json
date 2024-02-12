@@ -1,6 +1,6 @@
 {
   "name": "wow.ets.modules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WoW ETS Module list for use with wow-eluna-ts-module and Azerothcore eluna ",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/araxiaonline/wow.ets.modules#readme",
   "dependencies": {
-    "wow-eluna-ts-module": "^1.6.6"
+    "wow-eluna-ts-module": "^1.9.5"
   }
 }
